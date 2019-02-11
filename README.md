@@ -1,7 +1,7 @@
 # HairForceOne
 ```bash
 # Via putty (psftp:
-lcd c:/users/sjors/downloads
+lcd c:/...
 put poc-2019.zip
 
 # on your raspberrypi
