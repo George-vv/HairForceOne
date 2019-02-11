@@ -1,6 +1,6 @@
 # HairForceOne
 ```bash
-# Via putty (psftp:
+# Via putty (psftp):
 lcd c:/...
 put poc-2019.zip
 
